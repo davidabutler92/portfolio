@@ -1,0 +1,25 @@
+h1 {
+  text-align: center;
+}
+#title-jumbotron {
+  margin-top: 20px;
+  background: none;
+  color: white;
+}
+
+#small-title {
+  float: right;
+  padding-top: 10px;
+  font-style: italic;
+  color: white;
+  font-weight: lighter;
+} 
+
+body {
+  background-image: url("https://bit.ly/2Fw7KZ7");
+  background-color: #cccccc;
+  height:
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
