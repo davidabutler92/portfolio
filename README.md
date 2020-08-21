@@ -9,9 +9,9 @@
 #### Create a portfolio webpage using HTML and CSS, which will later act as the landing page for our programming portfolio.
 
 ## Setup/Installation Requirements
-* Make a new directory to clone the repo in.
-* Clone repository @ [Click here](https://github.com/davidabutler92/portfolio.git)
-* Open portfolio (code .) in terminal.
+* Sign into your github and click on this link below
+* Click on fork on the top right corner @ [Click here](https://github.com/davidabutler92/portfolio.git)
+* Now you have a copy of the repo and can edit it how you please.
 * To see on gh-pages [Click here](https://davidabutler92.github.io/portfolio/)  
 * 
 
