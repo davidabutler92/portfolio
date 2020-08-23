@@ -26,7 +26,6 @@
 #### CSS
 #### Git 
 #### Bootstrap
-#### jQuery 
 
 #### Copyright (c) 2020 **_{David Butler}_**
 #### The software is licensed under the MIT license [Click here](LICENSE.md)
