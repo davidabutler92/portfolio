@@ -4,7 +4,7 @@ h1 {
 #title-jumbotron {
   margin-top: 20px;
   background: none;
-  color: white;
+  color:  white
 }
 
 #small-title {
@@ -15,11 +15,11 @@ h1 {
 } 
 
 body {
-  background-image: url("https://bit.ly/2Fw7KZ7");
+  background-image: url("https://bit.ly/31STeCc");
   background-color: #cccccc;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
 }
 
 #projects-jumbotron {
