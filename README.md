@@ -10,10 +10,11 @@
 
 ## Setup/Installation Requirements
 * Sign into your github and click on this link below
-* Click on fork on the top right corner @ [Click here](https://github.com/davidabutler92/portfolio.git)
-* Now you have a copy of the repo and can edit it how you please.
+* Clone repository @ [Click here](https://github.com/davidabutler92/portfolio.git)
+* Navigate to the root directory in the terminal and type ‘open index.html’ to view project in browser
+* Open project in text editor to view code
 * To see on gh-pages [Click here](https://davidabutler92.github.io/portfolio/)  
-* 
+
 
 ## Known Bugs 
 #### There are no known bugs at the time.
