@@ -3,7 +3,7 @@
 ## Goal
 
 #### The goal of this project is to show an understanding of week 1 lessons (i.e styling webpage with Bootstrap and CSS, using variables, functions and methods ect..
-#### By _**{David Butler}**_
+#### By _**David Butler**_
 
 ## Description
 #### Create a portfolio webpage using HTML and CSS, which will later act as the landing page for our programming portfolio.
