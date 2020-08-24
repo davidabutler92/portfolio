@@ -30,5 +30,5 @@
 #### Git 
 #### Bootstrap
 
-#### Copyright (c) 2020 **_{David Butler}_**
+#### Copyright (c) 2020 **_David Butler_**
 #### The software is licensed under the MIT license [Click here](LICENSE.md)
