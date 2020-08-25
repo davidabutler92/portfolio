@@ -13,7 +13,7 @@
 * Under the repository name, click Clone, 'green button'
 * Then click the copy button next to the URL
 * Open the terminal and type, git clone https://github.com/davidabutler92/portfolio.git
-* Navigate to the root directory in the terminal and type ‘open index.html’ to view project in browser
+* Open the project in your code editor and drag index.html into the browser
 * Open project in text editor to view code
 * To see on gh-pages [Click here](https://davidabutler92.github.io/portfolio/)  
 
